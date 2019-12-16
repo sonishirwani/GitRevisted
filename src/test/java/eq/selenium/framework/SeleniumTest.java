@@ -39,5 +39,11 @@ public class SeleniumTest {
 		System.out.println("I am adding this code from US");
 		System.out.println("Please pull latest code from git before you proceed");
 	}
+	
+	@Test
+	public void validateCredentialsArchitectChangesAsiaTeam()
+	{
+		System.out.println("Inside validate credentials method of Selenium new architect changes from Asia Team");
+	}
 
 }

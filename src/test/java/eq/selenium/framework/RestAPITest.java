@@ -28,4 +28,10 @@ public class RestAPITest {
 	{
 		System.out.println("Inside validate credentials method of Rest API new architect changes");
 	}
+	
+	@Test
+	public void validateCredentialsArchitectChangesAsiaTeam()
+	{
+		System.out.println("Inside validate credentials method of Rest API new architect changes from Asia Team");
+	}
 }

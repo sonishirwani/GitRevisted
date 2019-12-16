@@ -27,4 +27,10 @@ public class AppiumTest {
 	{
 		System.out.println("Inside validate credentials method of Appium new architect changes");
 	}
+	
+	@Test
+	public void validateCredentialsArchitectChangesAsiaTeam()
+	{
+		System.out.println("Inside validate credentials method of Appium new architect changes from Asia Team");
+	}
 }
