@@ -22,4 +22,10 @@ public class RestAPITest {
 	{
 		System.out.println("Inside validate credentials method of Rest API java flow");
 	}
+	
+	@Test
+	public void validateCredentialsArchitectChanges()
+	{
+		System.out.println("Inside validate credentials method of Rest API new architect changes");
+	}
 }

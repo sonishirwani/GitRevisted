@@ -22,4 +22,9 @@ public class AppiumTest {
 		System.out.println("Inside validate credentials method of Appium java flow");
 	}
 
+	@Test
+	public void validateCredentialsArchitectChanges()
+	{
+		System.out.println("Inside validate credentials method of Appium new architect changes");
+	}
 }
