@@ -1,0 +1,4 @@
+eq\selenium\framework\RestAPITest.class
+eq\selenium\framework\SeleniumTest.class
+eq\selenium\framework\AppTest.class
+eq\selenium\framework\AppiumTest.class
