@@ -9,6 +9,7 @@ public class SeleniumTest {
 	{
 		System.out.println("Inside login method of Selenium java flow");
 		
+		System.out.println("Check conflicts");
 	}
 	
 	
