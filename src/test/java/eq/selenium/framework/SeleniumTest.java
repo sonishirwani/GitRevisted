@@ -8,8 +8,7 @@ public class SeleniumTest {
 	public void login()
 	{
 		System.out.println("Inside login method of Selenium java flow");
-		System.out.println("I am making changes from Asia");
-		System.out.println("Please pull the code from Git before you proceed");
+		
 	}
 	
 
@@ -25,5 +24,11 @@ public class SeleniumTest {
 		System.out.println("Inside validate credentials method of Selenium java flow");
 	}
 	
+	@Test
+	public void validateCredentialsnewmodule()
+	{
+		System.out.println("I am adding this code from Asia");
+		System.out.println("Please pull latest code from git before you proceed");
+	}
 
 }
