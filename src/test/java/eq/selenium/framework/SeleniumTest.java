@@ -8,8 +8,6 @@ public class SeleniumTest {
 	public void login()
 	{
 		System.out.println("Inside login method of Selenium java flow");
-		System.out.println("I am making changes from Asia");
-		System.out.println("Please pull the code from Git before you proceed");
 	}
 	
 
