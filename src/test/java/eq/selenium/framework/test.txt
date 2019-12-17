@@ -1,5 +1,15 @@
 Alphabets 
 a
+b
+c
+v
+g
+h
+y
+t
+n
+j
+k
 
 
 
