@@ -31,6 +31,6 @@ public class AppiumTest {
 	@Test
 	public void validateCredentialsArchitectChangesAsiaTeam()
 	{
-		System.out.println("Inside validate credentials method of Appium new architect changes from Asia Team");
+		System.out.println(" test branch Inside validate credentials method of Appium new architect changes from Asia Team");
 	}
 }
